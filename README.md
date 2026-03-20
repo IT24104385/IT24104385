@@ -37,6 +37,13 @@
 - 💞️ I’m always looking to collaborate on open-source **Java Projects** or innovative web apps
 - ⚡ **Fun fact**: I believe every picture tells a story, just like every line of code!
 
+### 🚀 Freelance Work & Live Projects
+I design and develop premium, commercial websites for clients. Here are some of the web applications and sites I've recently published:
+
+- 🌐 [**www.senukarosa.com**](https://www.senukarosa.com/)
+- 🚀 [**www.hypervisuals.lk**](https://www.hypervisuals.lk/)
+- ✨ [**www.minuex.com**](https://www.minuex.com/)
+
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
